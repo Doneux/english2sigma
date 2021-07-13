@@ -1,0 +1,8 @@
+ins=input("Insert text: ")
+ins2=ins.replace("a","v")
+ins3=ins2.replace("e","v")
+ins4=ins3.replace("i","v")
+ins5=ins4.replace("o","v")
+ins6=ins5.replace("u","v")
+print(ins6)
+quit()
