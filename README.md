@@ -1,4 +1,2 @@
 # english2sigma
-translates english language to sigma male language and hopefully can't be broken too bad
-
-it's python code btw
+Python code that encrypts English language messages (possibly any language, excluding accent marks) with the Sigma Cipher.
